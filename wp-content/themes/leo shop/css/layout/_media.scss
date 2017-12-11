@@ -1,0 +1,37 @@
+/*
+================================================================================
+|                                     media                                   |
+================================================================================
+*/
+
+@media screen and (max-width: 1200px) {
+	
+}
+
+@media screen and (min-width: 992px){
+	
+}
+
+@media screen and (max-width: 991px) {
+	
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+	
+}
+
+@media screen and (max-width: 767px) {
+	
+}
+
+/*BEGIN HEADER*/
+
+/* -- BEGIN FOR SAFARI   -- */
+@media screen and(-webkit-min-device-pixel-ratio:0) {
+	::i-block-chrome,.nav__link a,.product__payment,.personal__login a,.nav__link_sub{
+		font-weight: 500;    
+	}
+	
+}
+/* -- FOR SAFARI EOF -- */
+
